@@ -30,3 +30,4 @@ def set_inputs_incorrect_2(self) - метод объединяет некорр�
 
 # Sprint_4
 # Sprint_4
+# Sprint_4
